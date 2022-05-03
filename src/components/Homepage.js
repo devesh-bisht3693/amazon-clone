@@ -41,14 +41,14 @@ function Homepage() {
       <Product
        id={1}
        title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses"
-       price={29.99}
+       price={2299}
       image="https://images-na.ssl-images-amazon.com/images/I/51aEhyjQGrL._SX316_BO1,204,203,200_.jpg"
       rating={5}
       />
       <Product
        id={2}
        title="Kenwood Kitchen Machine kMix KMX750WH - 1000W|5L mixing bowl | K-beater, Whipping Tool & Dough Kneading Tool | 1 Year Warranty | White"
-       price={583.99}
+       price={44599}
       image="https://m.media-amazon.com/images/I/51yd+TT6YuL._AC_UY327_FMwebp_QL65_.jpg"
       rating={4}
       />
@@ -58,21 +58,21 @@ function Homepage() {
       <Product
        id={3}
        title="Samsung 59.8 cm (23.5 inch) Curved LED Backlit Computer Monitor - Full HD, VA Panel with VGA, HDMI, Audio Ports - LC24F390FHWXXL (Black)"
-       price={162.79}
+       price={12449}
       image="https://m.media-amazon.com/images/I/71nplbAMwzL._SX679_.jpg"
       rating={4}
       />
       <Product
        id={4}
        title="Echo Dot (3rd Gen) - #1 smart speaker brand in India with Alexa (Black)"
-       price={45.99}
+       price={3499}
       image="https://m.media-amazon.com/images/I/61EXU8BuGZL._SX679_.jpg"
       rating={3}
       />
       <Product
        id={5}
        title="2021 Apple iPad Pro with Apple M1 chip (12.9-inch/32.77 cm, Wi-Fi, 128GB) - Space Grey (5th Generation)"
-       price={1311.49}
+       price={100249}
       image="https://m.media-amazon.com/images/I/81+N4PFF7jS._SX342_.jpg"
       rating={5}
       />
@@ -80,9 +80,9 @@ function Homepage() {
       <div className='home__row'>
       <Product
        id={6}
-       title="https://m.media-amazon.com/images/I/81+N4PFF7jS._SX342_.jpg"
-       price={781.67}
-      image="https://m.media-amazon.com/images/I/71w4Asb1N0S._AC_UY327_FMwebp_QL65_.jpg"
+       title="LG 139.7 cm (55 inches) 4K Ultra HD Smart OLED TV 55A1PTZ (Dark Meteo Titan) (2021 Model)"
+       price={99999}
+      image="https://m.media-amazon.com/images/I/81v42AEmSLL._AC_UY327_FMwebp_QL65_.jpg"
       rating={4}
       />
       </div>
